@@ -1,0 +1,33 @@
+body {
+  background-color: #6cc5f0;
+}
+
+* {
+  font-family: 'Avenir Next Condensed', 'Helvetica', sans-serif;
+}
+
+
+/** HEADER **/
+.navbar {
+  background-color: #022230;
+  border-radius: 0;
+  border: 0;
+  height: 100px;
+  padding: 20px;
+
+}
+
+
+/** HEADER TEXT "The Cookie Jar" **/
+.navbar-brand{
+  color: white;
+  font-size: 48px;
+  text-decoration: none;
+
+}
+
+/*#logo-img {
+  background: url('Cookie.svg') no-repeat;
+  width: 100px;
+  height: 100px;*/
+}

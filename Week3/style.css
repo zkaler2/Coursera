@@ -31,9 +31,12 @@ body {
   padding: 10px;
 }
 
-.container{
+#container{
   text-align: center;
   background: #6cc5f0;
+  position: relative;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .title{
@@ -43,8 +46,6 @@ body {
 
 .paragraph{
   text-align: center;
-  padding-bottom: 10px;
-
 }
 
 /*#logo-img {

@@ -22,6 +22,11 @@ body {
   text-decoration: none;
 }
 
+.nav-item{
+  background: #6cc5f0;
+  text-align: center;
+}
+
 .text-center{
   padding: 10px;
 }

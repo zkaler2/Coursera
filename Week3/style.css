@@ -1,28 +1,44 @@
 body {
-  background-color: #6cc5f0;
+  background-color: white;
 }
 
 * {
   font-family: 'Avenir Next Condensed', 'Helvetica', sans-serif;
 }
 
-
 /** HEADER **/
 .navbar {
-  background-color: #022230;
   border-radius: 0;
   border: 0;
   height: 100px;
   padding: 20px;
-
+  background: #6cc5f0;
 }
 
-
-/** HEADER TEXT "The Cookie Jar" **/
+/** HEADER TEXT "Food, LLC" **/
 .navbar-brand{
-  color: white;
-  font-size: 48px;
+  color: #6cc5f0;
+  font-size: 36px;
   text-decoration: none;
+}
+
+.text-center{
+  padding: 10px;
+}
+
+.container{
+  text-align: center;
+  background: #6cc5f0;
+}
+
+.title{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.paragraph{
+  text-align: center;
+  padding-bottom: 10px;
 
 }
 
